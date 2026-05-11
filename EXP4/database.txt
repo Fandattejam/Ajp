@@ -1,8 +1,0 @@
-CREATE DATABASE test;
-
-USE test;
-
-CREATE TABLE student (
-    id INT,
-    name VARCHAR(50)
-);
