@@ -1,4 +1,0 @@
-step 1 : compile all
-step 2 : rmiregistry leave as it is 
-step 3 : open another terninal and server run
-step 4 : open client 
